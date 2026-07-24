@@ -1,5 +1,37 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>Hi, I'm **Arham Ali** 👋<br><br>I'm a **Computer Science student** passionate about building modern web applications and solving real-world problems through code. I enjoy turning ideas into functional, user-friendly software while continuously learning new technologies and improving my development skills.<br><br>Currently, I'm focused on mastering the **MERN Stack**, strengthening my **JavaScript** fundamentals, and improving my **Data Structures & Algorithms** skills to become a better software engineer.<br><br>### 🚀 What I'm Working On<br><br>* Building full-stack web applications with the MERN Stack<br>* Strengthening problem-solving through DSA (C++)<br>* Creating responsive and modern user interfaces<br>* Expanding my portfolio with real-world projects<br><br>### 🛠️ Tech Stack<br><br>* HTML5<br>* CSS3<br>* JavaScript<br>* React<br>* Next.js<br>* Node.js<br>* Express.js<br>* MongoDB<br>* C++<br>* Git & GitHub<br><br>### 🎯 Goals<br><br>* Build scalable, high-quality web applications<br>* Contribute to open-source projects<br>* Continuously learn modern technologies and best practices<br>* Grow as a Full-Stack Developer<br><br>📍 **Based in Pakistan**<br><br>> *"Always learning, always building."* 🚀<br>
+# 💫 About Me
+
+## 👨‍💻 Hi, I'm Arham Ali 👋
+
+I'm a **Computer Science student** passionate about building modern web applications and solving real-world problems through code. I enjoy turning ideas into functional, user-friendly software while continuously learning new technologies and improving my development skills.
+
+Currently, I'm focused on mastering the **MERN Stack**, strengthening my **JavaScript** fundamentals, and improving my **Data Structures & Algorithms** skills to become a better software engineer.
+
+### 🚀 What I'm Working On
+
+* 🌐 Building full-stack web applications with the **MERN Stack**
+* 🧩 Strengthening problem-solving through **Data Structures & Algorithms (C++)**
+* 🎨 Creating responsive and modern user interfaces
+* 📂 Expanding my portfolio with real-world projects
+
+### 🛠️ Tech Stack
+
+* **Frontend:** HTML5, CSS3, JavaScript, React, Next.js
+* **Backend:** Node.js, Express.js
+* **Database:** MongoDB
+* **Programming:** C++
+* **Tools:** Git & GitHub
+
+### 🎯 Goals
+
+* 🚀 Build scalable and high-quality web applications
+* 🤝 Contribute to open-source projects
+* 📚 Continuously learn modern technologies and best development practices
+* 💼 Grow as a Full-Stack Developer
+
+📍 **Based in Pakistan**
+
+> *"Always learning. Always building. Always improving."* 🚀
+
 
 
 ## 🌐 Socials:
