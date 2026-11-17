@@ -27,15 +27,6 @@ I'm a Computer Science student at the University of Gujrat, Pakistan, and I enjo
 | **Languages** | JavaScript, TypeScript, C++ |
 | **Tools** | Git, GitHub, VS Code, Vercel, npm, EAS |
 
-## Featured projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| **StudyFlow** | Study management platform with authentication, profiles, subjects and tasks | React, TypeScript, Supabase, PostgreSQL, Vercel |
-| **ClothX** | Mobile ecommerce app with product browsing, cart and authentication | React Native, Expo, TanStack Query, Axios |
-| **Task Manager API** | REST API with routes, controllers, services, middleware and error handling | Node.js, Express.js |
-| **Gameverse** | Gaming store website | HTML, CSS, JavaScript |
-
 ## Currently working on
 
 - Building full-stack apps with React, TypeScript and Supabase
