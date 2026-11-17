@@ -1,37 +1,66 @@
-# 💫 About Me
+<h1 align="center">Hi, I'm Arham Ali 👋</h1>
+<p align="center">
+  Full-Stack Developer · Final-Year Computer Science Student<br>
+  Building web and mobile apps with React, Node.js and Supabase
+</p>
 
-## 👨‍💻 Hi, I'm Arham Ali 👋
+<p align="center">
+  <a href="https://arhamali-portfolio.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/arhamali06/">LinkedIn</a> ·
+  <a href="mailto:arhamali111333@gmail.com">Email</a>
+</p>
 
-I'm a **Computer Science student** passionate about building modern web applications and solving real-world problems through code. I enjoy turning ideas into functional, user-friendly software while continuously learning new technologies and improving my development skills.
+---
 
-Currently, I'm focused on mastering the **MERN Stack**, strengthening my **JavaScript** fundamentals, and improving my **Data Structures & Algorithms** skills to become a better software engineer.
+## About me
 
-### 🚀 What I'm Working On
+I'm a Computer Science student at the University of Gujrat, Pakistan, and I enjoy turning ideas into working, user-friendly software. I build across the stack, from React interfaces and REST APIs to databases, authentication and mobile apps.
 
-* 🌐 Building full-stack web applications with the **MERN Stack**
-* 🧩 Strengthening problem-solving through **Data Structures & Algorithms (C++)**
-* 🎨 Creating responsive and modern user interfaces
-* 📂 Expanding my portfolio with real-world projects
+## Tech stack
 
-### 🛠️ Tech Stack
+| Area | Technologies |
+| --- | --- |
+| **Frontend** | HTML5, CSS3, JavaScript, TypeScript, React, Vite, React Router |
+| **Backend** | Node.js, Express.js, REST APIs, middleware, authentication |
+| **Databases** | MongoDB, PostgreSQL, Supabase (Auth, Row Level Security) |
+| **Mobile** | React Native, Expo, TanStack Query, React Hook Form, Zod |
+| **Languages** | JavaScript, TypeScript, C++ |
+| **Tools** | Git, GitHub, VS Code, Vercel, npm, EAS |
 
-* **Frontend:** HTML5, CSS3, JavaScript, React, Next.js
-* **Backend:** Node.js, Express.js
-* **Database:** MongoDB
-* **Programming:** C++
-* **Tools:** Git & GitHub
+## Featured projects
 
-### 🎯 Goals
+| Project | Description | Stack |
+| --- | --- | --- |
+| **StudyFlow** | Study management platform with authentication, profiles, subjects and tasks | React, TypeScript, Supabase, PostgreSQL, Vercel |
+| **ClothX** | Mobile ecommerce app with product browsing, cart and authentication | React Native, Expo, TanStack Query, Axios |
+| **Task Manager API** | REST API with routes, controllers, services, middleware and error handling | Node.js, Express.js |
+| **Gameverse** | Gaming store website | HTML, CSS, JavaScript |
 
-* 🚀 Build scalable and high-quality web applications
-* 🤝 Contribute to open-source projects
-* 📚 Continuously learn modern technologies and best development practices
-* 💼 Grow as a Full-Stack Developer
+## Currently working on
 
-📍 **Based in Pakistan**
+- Building full-stack apps with React, TypeScript and Supabase
+- Strengthening my Data Structures & Algorithms in C++
+- Exploring AI and LLM concepts, including RAG, for a healthcare project idea
+- Adding more real-world projects to my portfolio
 
-> *"Always learning. Always building. Always improving."* 🚀
+## Certifications
 
+- AI Fluency for Students, Anthropic
+- Claude 101, Anthropic
+- Google AI Essentials, Google
+- Introduction to Git and GitHub, Google
+
+## Goals
+
+- Grow as a full-stack developer and write clean, maintainable code
+- Learn from experienced engineers on a real product team
+- Contribute to open-source projects
+
+## Get in touch
+
+📍 Pakistan · 🌐 [Portfolio](https://arhamali-portfolio.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/arhamali06/) · ✉️ [arhamali111333@gmail.com](mailto:arhamali111333@gmail.com)
+
+*Always learning. Always building.*
 
 
 ## 🌐 Socials:
